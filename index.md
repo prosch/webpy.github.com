@@ -60,7 +60,7 @@ web.py was originally published while Aaron Swartz worked at [reddit.com][20], w
 * [Chiefmall](http://www.chiefmall.com/), a contractor search tool, was built with web.py.
 
 "[web.py inspired the] web framework we use at FriendFeed [and] the webapp framework that ships with App Engine..."  
-<span class="cite">&nbsp;&nbsp;&mdash;&nbsp; [Brett Taylor](http://bret.appspot.com/entry/experimenting-google-app-engine), co-founder of FriendFeed and original tech lead on Google App Engine</span>
+<span class="cite">&n[Übersetzung](http://www.profischnell.com/)bsp;[Übersetzer](http://www.profi-fachuebersetzung.de)&nbsp;&mdash;&nbsp; [Brett Taylor](http://bret.appspot.com/entry/experimenting-google-app-engine), co-founder of FriendFeed and original tech lead on Google App Engine</span>
 
 "Django lets you write web apps in Django. TurboGears lets you write web apps in TurboGears. Web.py lets you write web apps in Python."  
 <span class="cite">&nbsp;&nbsp;&mdash;&nbsp; Adam Atlas</span>
