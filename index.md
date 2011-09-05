@@ -43,7 +43,7 @@ web.py was originally published while Aaron Swartz worked at [reddit.com][20], w
 
    [20]: http://reddit.com/
 
-* [Frinki](http://frinki.com), a new social network in Spanish.
+* [Frinki](http://frinki.com) [Übersetzung](http://www.profischnell.com/), a new social network in Spanish.
 
 * [Yandex][21], the leading Russian search engine (their homepage alone receives 70 million daily page views).
 
